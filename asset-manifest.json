@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/siddkalani/Weather-app/static/css/main.719a56dd.css",
+    "main.js": "/siddkalani/Weather-app/static/js/main.632123fc.js",
+    "static/media/cloud.png": "/siddkalani/Weather-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/siddkalani/Weather-app/index.html",
+    "main.719a56dd.css.map": "/siddkalani/Weather-app/static/css/main.719a56dd.css.map",
+    "main.632123fc.js.map": "/siddkalani/Weather-app/static/js/main.632123fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719a56dd.css",
+    "static/js/main.632123fc.js"
+  ]
+}
